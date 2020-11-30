@@ -73,9 +73,13 @@ public class Timetable {
                             case 7: {
                                 System.out.println("Get ready for the new week");
                                 break;}
+                                default: {
+                                    System.out.println ("Wrong value");
+                                    break;
+                                }
+            }
             }
         }
-    }
 
 
 
