@@ -1,4 +1,4 @@
-package com.company;
+package HW281120;
 
 import java.util.Scanner;
 
